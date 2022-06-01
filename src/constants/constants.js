@@ -12,9 +12,9 @@ export const information = {
 export const projects = [
   
   {
-    title: "PlayBag",
+    title: "Time management",
     description:
-      "A Mobile-Application for Gamers, Investors, and Companies for eSports tournaments in-general",
+      "A Mobile-Application for students, teachers, and buisness men to help them managing their times ",
     image: "https://github.com/abdalrhman222/time-management/blob/main/maxresdefault.jpg?raw=true",
     tags: ["React Native", "Firebase"],
     source: "https://github.com/abdalrhman222/time-management",
